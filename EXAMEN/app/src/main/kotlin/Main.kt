@@ -7,8 +7,8 @@ public class Main {
         // inmutable = "Elias"; // Error!
 
         // MUTABLES
-        String mutable = "Bolanos";
-        mutable = "Elias"; // Ok
+        String mutable = "Jorge";
+        mutable = "Rojas"; // Ok
 
         // Duck Typing no existe en Java, pero se usan tipos explícitos
         String ejemploVariable = " Jorge Rojas ";
